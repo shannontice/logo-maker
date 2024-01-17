@@ -13,3 +13,4 @@ Link to deployed code: https://github.com/shannontice/logo-maker
 -Preview logo extension was used to see the finished product
 
 ## Mock-Up
+![Video demo showing user inputs being entered in the terminal and then creating a logo.svg](./util/SVG%20example2.mp4)
