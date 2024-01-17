@@ -1,7 +1,17 @@
 {
   "dependencies": {
-    "inquirer": "^8.2.6",
+    "inquirer": "^8.2.4",
     "svg": "^0.1.0",
     "svg-builder": "^2.0.0"
-  }
+  },
+  "name": "logo-maker",
+  "description": "## Description In this project node js was used to create a SVG logo generator in which the user can input the text, text color, shape and shape color into the terminal. The user input is then complied and utilized to create an logo.svg file which contains a logo that includes all their entered criteria.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
