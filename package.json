@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "svg": "^0.1.0",
+    "svg-builder": "^2.0.0"
+  }
+}
